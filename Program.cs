@@ -25,6 +25,7 @@ namespace Average_of_Even
                 }
                 num++;
             }
+             //Hacker Bhai Hacker
             Console.WriteLine("The average is:" + (Sum / count));
         }
     }
